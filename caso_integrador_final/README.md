@@ -1,6 +1,6 @@
 # 🚀 Proyecto: Caso Integrador Final
 
-![GitHub](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-purple)
+![GitHub](https://img.shields.io/badge/GitHub-purple)
 ![Copilot](https://img.shields.io/badge/Copilot-blue)
 ![SonarQube](https://img.shields.io/badge/Sonarqube-orange)
 
