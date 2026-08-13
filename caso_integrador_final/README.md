@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-purple)
 ![Copilot](https://img.shields.io/badge/Copilot-blue)
-![SonarQube](https://img.shields.io/badge/Sonarqube-orange)
+![SonarQube](https://img.shields.io/badge/SonarQube-orange)
 
 ---
 Aplicación web desarrollada con GitHub y Copilot.
